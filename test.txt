@@ -1,1 +1,5 @@
 Un autre test
+Sur les branches
+
+Modifié dans la branche feature
+Modifié dans la branche master
